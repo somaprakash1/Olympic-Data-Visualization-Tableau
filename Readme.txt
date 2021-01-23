@@ -1,0 +1,1 @@
+I worked on Olympics Data set and created visualization on Olympics data sets using tableau. Initially I created three visualizations  and  created an Interactive Dashboard. The visualizations gives  many insights at a glance and using filters we can get required insights.
